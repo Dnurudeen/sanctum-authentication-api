@@ -30,7 +30,7 @@ This is a lightweight Laravel 12 backend built with an API-first approach. It ex
 
 /app <br>
 └── Http/Controllers/API <br>
-└── AuthController.php # Event model for the events table <br><br>
+└── AuthController.php # Authentication structure for the users table <br><br>
 
 /routes <br>
 └── api.php # API-only routes <br><br>
