@@ -1,6 +1,14 @@
 # 🎯 Laravel 12 RESTful API Backend
 
-This is a lightweight Laravel 12 backend built with an API-first approach. It exposes secure and structured endpoints (e.g., `/api/all-events`) to serve frontend clients like [Next.js](https://nextjs.org/), mobile apps, or any SPA (React, Vue, etc.).
+This is a lightweight Laravel 12 backend built with an API-first approach. It exposes secure and structured endpoints (e.g., `/api/login`) to serve frontend clients like [Next.js](https://nextjs.org/), mobile apps, or any SPA (React, Vue, etc.).
+
+---
+
+## API ENDPOINTS
+- **POST** http://127.0.0.1:8000/api/register
+- **POST** http://127.0.0.1:8000/api/login
+- **GET** http://127.0.0.1:8000/api/get-user
+- **POST** http://127.0.0.1:8000/api/logout
 
 ---
 
